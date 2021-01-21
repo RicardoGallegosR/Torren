@@ -1,14 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/**
- *
- * @author Merino
- */
-
 public class TrackerFile {
 	private String name;	// nombre del archivo
 	private long size;		// tamaño
